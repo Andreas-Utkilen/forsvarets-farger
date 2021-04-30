@@ -9,6 +9,7 @@
     <DropDown
       @selected="updateSelected"
     />
+    <p style="font-size: 14px">Klikk for å kopiere fargekoden</p>
     <div
       class="container"
     >

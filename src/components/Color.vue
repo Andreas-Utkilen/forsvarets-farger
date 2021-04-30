@@ -113,5 +113,8 @@ p {
   button {
     min-width: 85px;
   }
+  button:hover .icon{
+    box-shadow: none;
+  }
 }
 </style>

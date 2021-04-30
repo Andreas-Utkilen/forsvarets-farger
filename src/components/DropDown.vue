@@ -1,7 +1,7 @@
 <template>
   <div
     class="custom-select"
-    style="width:200px;"
+    style="width:250px;"
   >
     <select>
       <option value="hex">HEX</option>
@@ -103,7 +103,7 @@ export default {
 <style>
 .custom-select {
   position: relative;
-  margin: 50px auto;
+  margin: 0 auto;
   margin-top: 100px;
 }
 .custom-select select {
