@@ -20,7 +20,7 @@
         {{ hex }}
       </p>
       <p>
-        {{ rgb }}
+        {{ pantone }}
       </p>
       <p>
         {{ cmyk }}
@@ -36,7 +36,7 @@ export default {
     selected: String,
     name: String,
     hex: String,
-    rgb: String,
+    pantone: String,
     cmyk: String,
     dark: Boolean
   },

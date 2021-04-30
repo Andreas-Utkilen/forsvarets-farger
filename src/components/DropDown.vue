@@ -6,7 +6,7 @@
     <select>
       <option value="hex">HEX</option>
       <option value="hex">HEX</option>
-      <option value="rgb">RGB</option>
+      <option value="pantone">PANTONE</option>
       <option value="cmyk">CMYK</option>
     </select>
   </div>
