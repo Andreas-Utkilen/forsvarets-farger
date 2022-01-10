@@ -224,7 +224,7 @@ export default {
         cmyk: ""
       },
       {
-        name: "Lys grå",
+        name: "Lavender",
         hex: "#D9C3DA",
         pantone: "524",
         cmyk: "11 23 0 0"
